@@ -4,14 +4,3 @@
   <h3 align="center"> I am in 2º Informatic Ingeniery in UMA, the public University of Málaga, Spain. I love programing and reading books, I also enjoy watching documentals about history and play instruments like viola or guitar.
 </div>
     
- /*
-<div class="center-image">
-  <table>
-    <tr>
-      <td><img src="images/SQL.png" alt="Imagen 1"></td>
-      <td><img src="images/JAVA.png" alt="Imagen 2"></td>
-      <td><img src="images/ASM.png" alt="Imagen 3"></td>
-    </tr>
-  </table>
-</div>
-*/
