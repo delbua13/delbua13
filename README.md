@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Logo de LinkedIn](linkedin.jpg)](https://www.linkedin.com)
+
 <!--
 **delbua13/delbua13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
